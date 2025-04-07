@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "bdoncroot"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -72,13 +72,13 @@
       "value": "id-amba-prod-001"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "a28df86c-26bc-4340-895b-f7d83ae7a07b"
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "southeastasia"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
@@ -97,7 +97,7 @@
       ]
     },
     "ALZMonitorActionGroupEmail": {
-      "value": []
+      "value": ["chianwong@microsoft.com"]
     },
     "ALZLogicappResourceId": {
       "value": ""
